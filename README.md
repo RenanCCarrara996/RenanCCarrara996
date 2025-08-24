@@ -1,7 +1,18 @@
-# 👋 Olá, eu sou o Renan!
+# 👋 Hey, eu sou o Renan!
 
 Discente em **Análise e Desenvolvimento de Sistemas** no SENAI Ourinhos/SP, apaixonado por tecnologia, códigos e tudo que envolve aprender algo novo!  
 Cursando o último semestre e já com um certificado massa em **Python para Cibersegurança**.
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20is%20art-%3Cthat%20does%20something%3E-blueviolet?style=for-the-badge&logo=code&logoColor=white" alt="Code is art <that does something>">
+</p>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,php,py,java&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
+
+[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,nextjs,spring&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,postman,vscode,figma,mysql,blender,pycharm&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
 
 ---
 
@@ -36,7 +47,7 @@ Cursando o último semestre e já com um certificado massa em **Python para Cibe
 
 ## 🌎 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-Renan%20Carrara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
+[![Conect for me](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
 
 ---
 
