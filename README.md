@@ -59,7 +59,7 @@ Cursando o último semestre e já com um certificado massa em **Python para Cibe
 
 <details>
   <summary>📝 Quer saber mais?</summary>
-  Atualmente focado em aprender frameworks modernos e contribuir com projetos open-source.  
+  Atualmente focado em aprender frameworks modernos e desenvolver projetos pessoais.  
   Curto compartilhar conhecimento e trocar ideias.  
   Bora conectar!
 </details>
