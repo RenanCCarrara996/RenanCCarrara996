@@ -10,7 +10,7 @@ Cursando o último semestre e já com um certificado em **Python para Cibersegur
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,php,py,java&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
 
-[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,nextjs,spring&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a) (ionic angular)
+[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,nextjs,spring&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a) (+ ionic angular)
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,postman,vscode,figma,mysql,blender,pycharm&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
 
