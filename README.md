@@ -18,8 +18,10 @@ Cursando o último semestre e já com um certificado em **Python para Cibersegur
 
 ## 📊 Estatísticas
 
-![Renan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenanCCarrara996&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCCarrara996&layout=compact&theme=radical)
+![Renan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenanCCarrara996&show_icons=true&theme=chartreuse-dark&rank_icon=github&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCCarrara996&layout=compact&theme=chartreuse-dark&langs_count=20&hide_progress=true)
+
+
 
 ---
 
