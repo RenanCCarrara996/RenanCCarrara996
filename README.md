@@ -1,7 +1,7 @@
 # 👋 Hey, eu sou o Renan!
 
-Discente em **Análise e Desenvolvimento de Sistemas** no SENAI Ourinhos/SP, apaixonado por tecnologia, códigos e tudo que envolve aprender algo novo!  
-Cursando o último semestre e já com um certificado em **Python para Cibersegurança**.
+Técnico em **Análise e Desenvolvimento de Sistemas** pelo SENAI Ourinhos/SP, apaixonado por tecnologia, códigos e tudo que envolve aprender algo novo!  
+Além disso, sou certificado em **Python para Cibersegurança** e **Pacote Office** (mesmo tendo crescido utilizando as ferramentas da Microsoft).
 
 
 <p align="center">
