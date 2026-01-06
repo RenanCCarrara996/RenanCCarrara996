@@ -13,7 +13,7 @@ Cursando Graduação no mesmo segmento!
 
 [![My Skills](https://skillicons.dev/icons?i=styledcomponents,tailwind,nextjs,angular,nodejs,spring&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a) (+ IONIC)
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,postman,vscode,figma,mysql,firebase,blender,pycharm&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
+[![My Skills](https://skillicons.dev/icons?i=arduino,postman,vscode,figma,mysql,firebase,blender,pycharm,kali&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
 
 ---
 
