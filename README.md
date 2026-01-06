@@ -9,11 +9,11 @@ Cursando Graduação no mesmo segmento!
   <img src="https://img.shields.io/badge/Code%20is%20art-%3Cthat%20does%20something%3E-blueviolet?style=for-the-badge&logo=code&logoColor=white" alt="Code is art <that does something>">
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,php,py,java&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,php,py,java&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
 
 [![My Skills](https://skillicons.dev/icons?i=angular,nodejs,nextjs,spring&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a) (+ IONIC)
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,postman,vscode,figma,mysql,blender,pycharm&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
+[![My Skills](https://skillicons.dev/icons?i=arduino,postman,vscode,figma,mysql,blender,pycharm,k6&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
 
 ---
 
