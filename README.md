@@ -2,6 +2,7 @@
 
 Técnico em **Análise e Desenvolvimento de Sistemas** pelo SENAI Ourinhos/SP, apaixonado por tecnologia, códigos e tudo que envolve aprender algo novo!  
 Além disso, sou certificado em **Python para Cibersegurança** e **Pacote Office** (mesmo tendo crescido utilizando as ferramentas da Microsoft).
+Cursando Graduação no mesmo segmento!
 
 
 <p align="center">
@@ -10,7 +11,7 @@ Além disso, sou certificado em **Python para Cibersegurança** e **Pacote Offic
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,php,py,java&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
 
-[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,nextjs,spring&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a) (+ ionic angular)
+[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,nextjs,spring&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a) (+ IONIC)
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,postman,vscode,figma,mysql,blender,pycharm&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
 
@@ -27,8 +28,8 @@ Além disso, sou certificado em **Python para Cibersegurança** e **Pacote Offic
 
 ## 🏆 Certificações & Formação
 
-- 🎓 **Python para Cibersegurança** - SENAI Ourinhos/SP (Certificado)
-- 📚 **Técnico em Análise e Desenvolvimento de Sistemas** (finalizando!)
+- 🎓 **Python para Cibersegurança** - SENAI Ourinhos/SP (40h)
+- 📚 **Técnico em Análise e Desenvolvimento de Sistemas** - SENAI Ourinhos/SP (1600h)
 
 ---
 
@@ -37,6 +38,8 @@ Além disso, sou certificado em **Python para Cibersegurança** e **Pacote Offic
 - **Sistema de Biblioteca**  
   Projeto feito com HTML, CSS e PHP puro, responsivo e rodando em servidor local.  
   *Simples, mas feito com dedicação!*
+
+- *Outros em desenvolvimento e quase completos... em breve...*
 
 ---
 
