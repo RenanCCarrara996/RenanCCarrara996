@@ -16,13 +16,34 @@ Cursando Graduação no mesmo segmento!
 [![My Skills](https://skillicons.dev/icons?i=arduino,postman,vscode,figma,mysql,firebase,blender,pycharm,kali&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
 
 ---
+<details open>
+  <summary><h2>📊 GitHub Stats (Estatísticas)</h2></summary>
 
-## 📊 Estatísticas
+  <br>
+  
+<p align="center">
 
-![Renan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenanCCarrara996&show_icons=true&theme=chartreuse-dark&rank_icon=github&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCCarrara996&layout=compact&theme=chartreuse-dark&langs_count=20&hide_progress=true)
+  <!-- Row 1: Main Stats + Alternate Stats -->
+  <a href="https://github.com/RenanCCarrara996" target="_blank" style="margin-right:16px;">
+    <img src="https://gh-readme-profile.vercel.app/api?username=RenanCCarrara996&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="RCC996's GitHub stats" height="142px"/>
+  </a>
 
+  <a href="https://github.com/RenanCCarrara996" target="_blank">
+    <img alt="RCC996's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=RenanCCarrara996&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
+  </a>
 
+  <!-- Row 2: Top Languages -->
+<a href="https://github.com/RenanCCarrara996" target="_blank">
+  <img 
+      alt="RCC996's Top Languages" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RenanCCarrara996&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" 
+      height="162px"
+  />
+</a>
+
+</p>
+
+</details>
 
 ---
 
