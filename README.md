@@ -24,12 +24,8 @@ Cursando Graduação no mesmo segmento!
 <p align="center">
 
   <!-- Row 1: Main Stats + Alternate Stats -->
-  <a href="https://github.com/RenanCCarrara996" target="_blank" style="margin-right:16px;">
-    <img src="https://gh-readme-profile.vercel.app/api?username=RenanCCarrara996&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="RCC996's GitHub stats" height="142px"/>
-  </a>
-
   <a href="https://github.com/RenanCCarrara996" target="_blank">
-    <img alt="RCC996's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=RenanCCarrara996&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
+    <img src="https://gh-readme-profile.vercel.app/api?username=RenanCCarrara996&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="RCC996's GitHub stats" height="142px"/>
   </a>
 
   <!-- Row 2: Top Languages -->
