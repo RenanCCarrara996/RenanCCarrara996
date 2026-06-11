@@ -9,11 +9,13 @@ Cursando Graduação no mesmo segmento!
   <img src="https://img.shields.io/badge/Code%20is%20art-%3Cthat%20does%20something%3E-blueviolet?style=for-the-badge&logo=code&logoColor=white" alt="Code is art <that does something>">
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,c,php,py,java&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,c,php,py,java,bash&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
 
-[![My Skills](https://skillicons.dev/icons?i=styledcomponents,tailwind,nextjs,angular,nodejs,spring&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a) (+ IONIC)
+[![My Skills](https://skillicons.dev/icons?i=styledcomponents,tailwind,nextjs,angular,nodejs,spring,docker&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a) (+ IONIC)
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,postman,vscode,figma,mysql,firebase,blender,pycharm,kali&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
+[![My Skills](https://skillicons.dev/icons?i=arduino,postman,vscode,figma,mysql,firebase,blender,pycharm,clion&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
+
+[![My Skills](https://skillicons.dev/icons?i=windows,kali,mint,debian&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
 
 ---
 <details open>
