@@ -64,7 +64,7 @@ Cursando Graduação no mesmo segmento!
 
 ## 👨‍💻 Interesses
 
-- Aprendendo **React/Next.js** para novos projetos e TCC.
+- Aprendendo **Linux, Docker, Redes** para novos projetos, servidores e afins.
 - Facilidade em aprender: se é tecnologia, tô dentro!
 
 ---
