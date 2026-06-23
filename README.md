@@ -67,6 +67,7 @@ Cursando Graduação no mesmo segmento!
 
 - Aprendendo **Linux, Docker, Redes** para novos projetos, servidores e afins.
 - Facilidade em aprender: se é tecnologia, tô dentro!
+- Segurança da Informação (Bastante curiosidade na área)
 
 ---
 
