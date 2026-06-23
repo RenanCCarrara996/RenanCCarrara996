@@ -49,6 +49,7 @@ Cursando Graduação no mesmo segmento!
 
 - 🎓 **Python para Cibersegurança** - SENAI Ourinhos/SP (40h)
 - 📚 **Técnico em Análise e Desenvolvimento de Sistemas** - SENAI Ourinhos/SP (1600h)
+- **Técnologo em Análise e Desenvolvimento de Sistemas** - Fatec Ourinhos (2500h)
 
 ---
 
