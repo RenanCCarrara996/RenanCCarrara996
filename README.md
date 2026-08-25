@@ -15,7 +15,7 @@ Cursando Graduação no mesmo segmento!
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,postman,vscode,figma,mysql,firebase,blender,pycharm,clion&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
 
-[![My Skills](https://skillicons.dev/icons?i=windows,kali,mint,debian&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,mint,debian&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
 
 ---
 <details open>
