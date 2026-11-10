@@ -52,29 +52,20 @@
 
 <!-- ESTATÍSTICAS ALINHADAS E COM TEMA COLORIDO -->
 <div align="center">
-  <h2>📈 Conquistas e Estatísticas</h2>
+  <h2>📈 Estatísticas e Atividade</h2>
   <br>
+  
+  <!-- GitHub Streak (O que já estava funcionando) -->
   <p>
     <img src="https://streak-stats.demolab.com/?user=RenanCCarrara996&theme=react&hide_border=false" alt="GitHub Streak" height="170" />
   </p>
   <br>
+
+  <!-- Novo Card de Resumo do Perfil (Mais estável) -->
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=RenanCCarrara996&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenanCCarrara996&theme=react" alt="Resumo do Perfil" />
   </p>
 </div>
-
-
-<!-- ESTATÍSTICAS ALINHADAS E COM TEMA COLORIDO -->
-<div align="center">
-  <h2>📈 Minhas Estatísticas</h2>
-  <br>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=RenanCCarrara996&show_icons=true&theme=react&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&border_radius=10&hide_border=false" alt="Estatísticas" height="170" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RenanCCarrara996&layout=compact&langs_count=6&theme=react&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd&border_radius=10&hide_border=false" alt="Linguagens" height="170" />
-  </p>
-</div>
-
 
 <!-- RODAPÉ ESTILIZADO -->
 <br>
