@@ -1,99 +1,70 @@
-# 👋 Hey, eu sou o Renan!
+<!-- BANNER ANIMADO COM GRADIENTE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Renan%20Cadamuro&fontSize=60&animation=fadeIn&fontAlignY=35&desc=T%C3%A9cnico%20e%20Estudante%20de%20ADS&descAlignY=55&descAlign=50" width="100%" />
+</div>
 
-Técnico em **Análise e Desenvolvimento de Sistemas** pelo SENAI Ourinhos/SP, apaixonado por tecnologia, códigos e tudo que envolve aprender algo novo!  
-Além disso, sou certificado em **Python para Cibersegurança** e **Pacote Office** (mesmo tendo crescido utilizando as ferramentas da Microsoft).
-Cursando Graduação no mesmo segmento!
+<!-- TEXTO DIGITANDO SOZINHO (ANIMAÇÃO) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=T%C3%A9cnico+em+An%C3%A1lise+e+Desenv.+de+Sistemas;Estudante+na+FATEC+Ourinhos;Apaixonado+por+Tecnologia+e+Ciberseguran%C3%A7a;Em+busca+de+novos+desafios!" alt="Typing SVG" />
+  </a>
+</div>
 
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20is%20art-%3Cthat%20does%20something%3E-blueviolet?style=for-the-badge&logo=code&logoColor=white" alt="Code is art <that does something>">
-</p>
+<!-- SEÇÃO SOBRE MIM EM TABELA PARA FICAR ORGANIZADO -->
+<table align="center" width="100%">
+  <tr>
+    <td width="60%">
+      <h2>👋 Sobre mim</h2>
+      <p>Sou de Ourinhos/SP, formado como <b>Técnico em Análise e Desenvolvimento de Sistemas</b> pelo SENAI e atualmente aprofundando meus conhecimentos no curso <b>Tecnólogo em ADS</b> pela FATEC.</p>
+      <p>Gosto de entender como as coisas funcionam por debaixo dos panos, o que me atrai bastante para áreas como <b>Infraestrutura, Redes, Docker e Segurança da Informação</b>.</p>
+      <br>
+      🎓 <b>Educação:</b> FATEC Ourinhos & SENAI <br>
+      🔒 <b>Certificações:</b> Python para Cibersegurança (SENAI) <br>
+      🚀 <b>Foco atual:</b> Desenvolvimento Web, Linux e Containers
+    </td>
+    <td width="40%" align="center">
+      <h2>🌎 Conecte-se</h2>
+      <a href="https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<h3>Linguagens:</h3>
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,php,py,java,bash&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
-
-<h3>Frameworks & Bibliotecas:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=react,styledcomponents,tailwind,nextjs,angular,nodejs,spring&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a) (+ IONIC)
-
-<h3>Softwares & Ferramentas:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=arduino,postman,vscode,figma,mysql,firebase,blender,pycharm,clion,docker&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
-
-<h3>Sistemas Operacionais:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,mint,debian&theme=dark)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
-
----
-<details open>
-  <summary><h2>📊 GitHub Stats (Estatísticas)</h2></summary>
-
+<!-- HARD SKILLS COM ÍCONES PROFISSIONAIS -->
+<div align="center">
+  <h2>🛠️ Tecnologias e Ferramentas</h2>
+  <p>Linguagens, Frameworks & Softwares que utilizo nos meus projetos e estudos:</p>
   <br>
   
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,php,py,java,bash&theme=dark" alt="Linguagens" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,styledcomponents,tailwind,nextjs,angular,nodejs,spring,ionic&theme=dark" alt="Frameworks" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=arduino,postman,vscode,figma,mysql,firebase,blender,docker,ubuntu,windows&theme=dark" alt="Tools" />
+</div>
 
-  <!-- Row 1: Main Stats + Alternate Stats -->
-  <a href="https://github.com/RenanCCarrara996" target="_blank">
-    <img src="https://gh-readme-profile.vercel.app/api?username=RenanCCarrara996&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="RCC996's GitHub stats" height="142px"/>
-  </a>
+<br><br>
 
-  <!-- Row 2: Top Languages -->
-<a href="https://github.com/RenanCCarrara996" target="_blank">
-  <img 
-      alt="RCC996's Top Languages" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RenanCCarrara996&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" 
-      height="162px"
-  />
-</a>
+<!-- ESTATÍSTICAS ALINHADAS E COM TEMA COLORIDO -->
+<div align="center">
+  <h2>📈 Conquistas e Estatísticas</h2>
+  <br>
+  <p>
+    <img src="https://streak-stats.demolab.com/?user=RenanCCarrara996&theme=react&hide_border=false" alt="GitHub Streak" height="170" />
+  </p>
+  <br>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=RenanCCarrara996&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </p>
+</div>
 
-</p>
-
-</details>
-
----
-
-## 🏆 Certificações & Formação
-
-- 🎓 **Python para Cibersegurança** - SENAI Ourinhos/SP (40h)
-- 📚 **Técnico em Análise e Desenvolvimento de Sistemas** - SENAI Ourinhos/SP (1600h)
-- **Técnologo em Análise e Desenvolvimento de Sistemas** - Fatec Ourinhos (2500h)
-
----
-
-## 💡 Projetos em Destaque
-
-- **Sistema de Biblioteca**  
-  Projeto feito com HTML, CSS e PHP puro, responsivo e rodando em servidor local.  
-  *Simples, mas feito com dedicação!*
-
-- *Outros em desenvolvimento e quase completos... em breve...*
-
----
-
-## 👨‍💻 Interesses
-
-- Aprendendo **Linux, Docker, Redes** para novos projetos, servidores e afins.
-- Facilidade em aprender: se é tecnologia, tô dentro!
-- Segurança da Informação (Bastante curiosidade na área)
-
----
-
-## 🌎 Conecte-se comigo
-
-[![Conect for me](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/renan-cadamuro-carrara-32b36930a)
-
----
-
-### 😄 Fun fact
-
-> Tenho facilidade em aprender novas tecnologias e adoro um bom desafio!
-
----
-
-<details>
-  <summary>📝 Quer saber mais?</summary>
-  Atualmente focado em aprender frameworks modernos e desenvolver projetos pessoais.  
-  Curto compartilhar conhecimento e trocar ideias.  
-  Bora conectar!
-</details>
+<!-- RODAPÉ ESTILIZADO -->
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
