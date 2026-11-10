@@ -63,6 +63,19 @@
   </p>
 </div>
 
+
+<!-- ESTATÍSTICAS ALINHADAS E COM TEMA COLORIDO -->
+<div align="center">
+  <h2>📈 Minhas Estatísticas</h2>
+  <br>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=RenanCCarrara996&show_icons=true&theme=react&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&border_radius=10&hide_border=false" alt="Estatísticas" height="170" />
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RenanCCarrara996&layout=compact&langs_count=6&theme=react&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd&border_radius=10&hide_border=false" alt="Linguagens" height="170" />
+  </p>
+</div>
+
+
 <!-- RODAPÉ ESTILIZADO -->
 <br>
 <div align="center">
